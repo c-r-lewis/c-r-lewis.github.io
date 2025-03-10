@@ -43,6 +43,10 @@
     opacity: 1;
 }
 
+.card-overlay > p {
+    max-width: 95%;
+}
+
 .row-eq-height {
     display: flex;
     flex-wrap: wrap;
